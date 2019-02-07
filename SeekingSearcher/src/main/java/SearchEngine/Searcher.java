@@ -7,5 +7,8 @@ package SearchEngine;
  *Search Engine Project COP 2805. Edit this later.
  */
 public class Searcher {
-    // We will put some code here if we want
+    
+    public static void main (String[] args) {
+        // Put some code in here
+    }
 }
